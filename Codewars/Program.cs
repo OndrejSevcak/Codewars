@@ -1,1 +1,5 @@
-﻿Console.WriteLine("Welcome");
+﻿using Codewars._5kyu;
+
+Console.WriteLine("Welcome");
+
+RecreationOne.Test();
